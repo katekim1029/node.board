@@ -2,3 +2,7 @@ node_modules
 .env
 public
 data
+/.idea/modules.xml
+/.idea/node.board.iml
+/package-lock.json
+/.idea/vcs.xml
